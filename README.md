@@ -31,8 +31,8 @@ N.B. Replace [...] with the local path to the toolkit
 
 * Start with 64-bit MICE (Matlab/SPICE) installation, and CHDIR to top of MICE hierarchy e.g.
 
-    curl https://naif.jpl.nasa.gov/pub/naif/toolkit/MATLAB/PC_Linux_GCC_MATLAB7.x_64bit/packages/mice.tar.Z | tar zxf -
-    cd mice
+      curl https://naif.jpl.nasa.gov/pub/naif/toolkit/MATLAB/PC_Linux_GCC_MATLAB7.x_64bit/packages/mice.tar.Z | tar zxf -
+      cd mice
 
 * A development environment, typically gcc and g++
 
