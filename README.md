@@ -27,7 +27,7 @@ N.B. Replace [...] with the local path to the toolkit
 
 * The script should be executable
 
-    chmod a+x mice_octave_64.bash
+      chmod a+x mice_octave_64.bash
 
 * Start with 64-bit MICE (Matlab/SPICE) installation, and CHDIR to top of MICE hierarchy e.g.
 
@@ -38,4 +38,4 @@ N.B. Replace [...] with the local path to the toolkit
 
 * Octave and Octave development must be installed, and the mkoctfile executable script is in the PATH.  E.g. in a debian-based distribution such as Ubuntu, this would be satisified via a command such as as
 
-    sudo apt install octave liboctave-dev
+      sudo apt install octave liboctave-dev
